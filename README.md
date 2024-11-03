@@ -1,10 +1,11 @@
-I Am 3rd year Student Of B.Tech (Honours.) Pursuing "Computer Science Engineering In *Data Science"...
+I Am 3rd year B.Tech (Honours.) Student Pursuing "Computer Science Engineering In *Data Science"...
 Earlier, I had Worked as a Data Science Intern at COGNORISE INFOTECH and Also I had worked as Data Science Intern at NAVODITA INFOTECH. 
 
 currently, I Am Working As The Training And Placement Coordinator(Team Recruitment) And Cultural Event Manager @UTD-CSVTU...
 I am Also Full-Time Stock Analyst and Trader at NSE india Limited.
 
-I am Also Member in IEEE, NSS and many more organizations, which is Being Used to work for the people's Welfare. 
+I am Also Member in IEEE, NSS and many more organizations, which is Being Used to work for the people's Welfare.
+My Projects can be Seen in my Repositories itself. 
 
 I Am Enthusiastic,Dedicated Person Towards My Goals...And I Am Constantly Doing Hard Work To Pursue It...I Believe In Having Blessings From Parents And Elder Ones To Achieve Greatness...Always Ready To Face Every Challenge...Always Respect Everyone And Make Your Surrounding More Happier With Your Presence...I Also Teach Students From Class 1 To 10(All Subjects) And Class 11th And 12th(Physics, Chemistry,Computer Science And English). 
 I Had Around 30 Students In My Tuition Club...All This, I Had Done While I Was In Class 11th And 12th...Along With The Preparation Of IIT-JEE...Gave Cbse Board Exam Than Iit- Jee Followed By CUET And NDA... 
