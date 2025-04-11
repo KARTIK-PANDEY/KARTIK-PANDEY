@@ -1,6 +1,7 @@
 RESEARCH INTERN @IIT BHILAI. Working on the Paid Project for STEEL AUTHORITY OF INDIA (SAIL). 
 I Am 3rd year B.Tech (Honours.) Student Pursuing "Computer Science Engineering In *Data Science"...
-Earlier, I had Worked as a Data Science Intern at COGNORISE INFOTECH and Also I had worked as Data Science Intern at NAVODITA INFOTECH. 
+Earlier, I had Worked as a Data Science Intern at NAVODITA INFOTECH and Also I had worked as Data Science Intern at COGNORISE INFOTECH.
+I had Great Experience as Data Analyst at UPTRICKS SOLUTIONS PVT.LTD. in PUNE, INDIA.
 
 I had Worked As The Training And Placement Coordinator(Team Recruitment) And Cultural Event Manager @UTD-CSVTU...
 I am Also Full-Time Stock Analyst and Trader at NSE india Limited.
