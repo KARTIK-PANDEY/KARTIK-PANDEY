@@ -13,7 +13,7 @@
 🏛️ **Chhattisgarh Swami Vivekanand Technical University (CSVTU)**
 
 🔬 Currently a **Research Intern at IIT Bhilai**  
-💼 Working on a **Paid Project for Steel Authority of India (SAIL)**  
+💼 Working on a **Paid Project of 4.5 crore for Steel Authority of India Limited (SAIL) **  
 
 ---
 
@@ -41,8 +41,10 @@
 Explore my latest work in the [📁 Repositories Section](https://github.com/KARTIK-PANDEY?tab=repositories).  
 Includes:
 - Data Visualization Dashboards
+- Anamoly Detection and Alert Generation
 - Stock Market Analyzers
 - Machine Learning Models
+- App Development
 - Web Applications
 
 ---
@@ -107,7 +109,7 @@ Includes:
 
 ---
 
-## 💭 Philosophy
+## 💭 THOUGHTS:-
 
 > _“Once a Learner, Always a Learner.”_  
 > _“Respect Everyone. Spread Positivity. Stay Humble.”_
