@@ -39,7 +39,7 @@
 ## 📂 Projects
 
 Explore my latest work in the [📁 Repositories Section](https://github.com/KARTIK-PANDEY?tab=repositories).  
-Includes:
+That Includes:
 - Data Visualization Dashboards
 - Anamoly Detection and Alert Generation
 - Stock Market Analyzers
