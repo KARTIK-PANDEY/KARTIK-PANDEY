@@ -10,106 +10,118 @@
 
 🎓 **3rd Year B.Tech (Hons.) in Computer Science & Engineering**  
 📚 Specialization: **Data Science**  
-🏛️ **Chhattisgarh Swami Vivekanand Technical University (CSVTU)**
-
-🔬 Currently a **Research Intern at IIT Bhilai**  
-💼 Working on a **Paid Project of 4.5 crore for Steel Authority of India Limited (SAIL)**  
-
----
-
-## 🧠 Experience & Roles
-
-- 📊 **Data Science Intern** at **Navodita Infotech**  
-- 💡 **Data Science Intern** at **Cognorise Infotech**  
-- 📈 **Data Analyst** at **Uptricks Solutions Pvt. Ltd., Pune**
-- 🧑‍🏫 **Training & Placement Coordinator** (Team Recruitment), UTD-CSVTU  
-- 🎭 **Cultural Event Manager** @ UTD-CSVTU  
-- 💹 **Full-Time Stock Analyst and Trader** @ **NSE India Ltd.**
+🏛️ **Chhattisgarh Swami Vivekanand Technical University, Bhilai**  
+🔬 **Research Intern @IIT Bhilai (Jan–June 2025)**  
+💼 Working on a **₹4.5 Crore Project with Steel Authority of India Ltd. (SAIL)**  
+💹 **Full-Time Stock Analyst & Trader** at **NSE India**
 
 ---
 
-## 🔍 Associations
+## 🧠 Work Experience
 
-- 👨‍🔬 Member of **IEEE**  
-- 🙌 Active Volunteer at **NSS**  
-- 🌐 Member of multiple **social welfare organizations**  
+- 📊 **Data Science Intern** – *Navodita Infotech*  
+- 📈 **Data Analyst Intern** – *Uptricks Solutions, Pune*  
+- 💡 **Data Science Intern** – *CognoRise Infotech*  
+- 📣 **MyGov Campus Ambassador** – *Ministry of Electronics & IT*  
+- 🧪 **Research Intern** – *IIT Bhilai*
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Place** – Hackathon for AI ChatBot: [TENET BOT](https://github.com/KARTIK-PANDEY/Ai_Based_Chatbot-TENET_BOT)  
+- 🏆 **Best Anchor Award** – National Science Day 2024  
+- 🥇 **Winner** – National Data Analyst Hackathon @ IIM Nagpur  
+- 🧠 **Research Presentation** – IEEE Conference on *Algorithmic Trading*  
+- 📜 **Certificate of Appreciation** – NEP 2023 Promotion in Technical Education  
+- 🧪 **2nd Place** – Intra-UTD Hackathon
 
 ---
 
 ## 📂 Projects
 
-Explore my latest work in the [📁 Repositories Section](https://github.com/KARTIK-PANDEY?tab=repositories).  
-That Includes:
-- Data Visualization Dashboards
-- Anamoly Detection and Alert Generation
-- Stock Market Analyzers
-- Machine Learning Models
-- App Development
-- Web Applications
+### 🔧 [Cobble Reduction Alert System – SAIL Project](https://github.com/shreydan/KDD25_ADS_Continual_Anomaly_Detection_Steel_Industry)
+ML & video-based failure prediction for Bar and Rod Mill @ Bhilai Steel Plant
+
+### 🚗 [Vehicle Management App](https://github.com/KARTIK-PANDEY/vehicle_management_app)
+Flutter app for booking, refueling, tracking, and log-book management for university vehicles
+
+### 🥔 [Potato Disease Classifier](https://github.com/KARTIK-PANDEY/Potato_disease_classification_model)
+ML model for classifying potato leaf diseases from images using TensorFlow, Keras
+
+### 🤖 [TENET BOT – AI Chatbot](https://github.com/KARTIK-PANDEY/Ai_Based_Chatbot-TENET_BOT)
+NLP-powered Discord chatbot trained on 5 lakh+ inputs for accurate and intuitive responses
+
+---
+
+## 📘 Key Courses
+
+### 🧮 Mathematics
+`Linear Algebra` • `Calculus` • `Probability` • `Statistics` • `Regression` • `Discrete Mathematics`
+
+### 💻 Computer Science
+`DSA` • `DBMS` • `Computer Networks` • `AI` • `NLP` • `Pattern Recognition` • `Machine Learning`  
+`Theory of Computation` • `OOP` • `Cryptography` • `Data Warehousing` • `Operating Systems`
 
 ---
 
 ## 📚 Tutoring Experience
 
-- 🎓 Teaching **Classes 1 to 10 (All Subjects)**  
-- 📘 For **Classes 11 & 12**: Physics, Chemistry, Computer Science, English  
-- 👨‍🏫 Had a batch of **30+ students** in my Tuition Club  
-- 📘 Managed all this while preparing for **IIT-JEE**, **CBSE Boards**, **CUET**, and **NDA**
+- 👨‍🏫 Taught **Classes 1–10** (All Subjects), and **11–12** (Physics, Chemistry, CS, English)  
+- 👥 Managed 30+ students while preparing for **IIT-JEE**, **CUET**, **NDA**, and **CBSE Boards**
 
 ---
 
-## 🏆 Competitive Exams
+## 🤝 Volunteering
 
-- ✅ Cleared **IIT-JEE**  
-- ✅ Cleared **CUET** with excellent scores  
-- 🎓 Admitted to B.Tech in **CSE (Data Science)**  
+- 🧢 **Vice Secretary** – IEEE Student Branch, CSVTU  
+- 📰 **Editor** – PRAVAAH Newsletter, UTD-CSVTU  
+- 🌍 **NSS Member** – Participated in National & State Integration Camps  
+- 🎯 **Head Coordinator** – Official Tourism Club (AICTE Sponsored)  
+- 💼 **TPO Cell Leader** – Training & Placement Coordinator, UTD-CSVTU
 
 ---
 
 ## ⚙️ Technical Skills & Tools
 
 ### 👨‍💻 Programming
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=flat&logo=TensorFlow&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-F57C00?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🧰 Tools & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ### 📊 Data Analytics
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-003B71?style=flat)
 
-### 🧩 Miscellaneous Skills
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-9C27B0?style=flat)
-![Teamwork](https://img.shields.io/badge/Teamwork-4CAF50?style=flat)
-![Communication](https://img.shields.io/badge/Communication-03A9F4?style=flat)
-![Leadership](https://img.shields.io/badge/Leadership-607D8B?style=flat)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+### 🧩 Miscellaneous
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 ![Algorithmic Trading](https://img.shields.io/badge/Algorithmic%20Trading-607D8B?style=flat)
-![Stock Analyst](https://img.shields.io/badge/Stock%20Analyst-607D8B?style=flat)
-![Equity Trading](https://img.shields.io/badge/Equity%20Trading-795548?style=flat)
+![Equity Analyst](https://img.shields.io/badge/Stock%20Market%20Analysis-795548?style=flat)
+![Communication](https://img.shields.io/badge/Communication-03A9F4?style=flat)
+![Teamwork](https://img.shields.io/badge/Teamwork-4CAF50?style=flat)
+![Leadership](https://img.shields.io/badge/Leadership-607D8B?style=flat)
 
 ---
 
-## 💭 THOUGHTS:-
+## 💭 Thoughts
 
 > _“Once a Learner, Always a Learner.”_  
 > _“Respect Everyone. Spread Positivity. Stay Humble.”_
