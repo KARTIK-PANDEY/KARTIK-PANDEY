@@ -40,13 +40,13 @@
 
 ## 📂 Projects
 
-### 🔧 [Cobble Reduction Alert System – SAIL Project](https://github.com/shreydan/KDD25_ADS_Continual_Anomaly_Detection_Steel_Industry)
+### 🔧 [Digital Transformative System For Pre-Failure Alert Generation – SAIL Project](https://github.com/shreydan/KDD25_ADS_Continual_Anomaly_Detection_Steel_Industry)
 ML & video-based failure prediction for Bar and Rod Mill @ Bhilai Steel Plant
 
 ### 🚗 [Vehicle Management App](https://github.com/KARTIK-PANDEY/vehicle_management_app)
 Flutter app for booking, refueling, tracking, and log-book management for university vehicles
 
-### 🥔 [Potato Disease Classifier](https://github.com/KARTIK-PANDEY/Potato_disease_classification_model)
+### 🥔 [Potato Disease Classification Model](https://github.com/KARTIK-PANDEY/Potato_disease_classification_model)
 ML model for classifying potato leaf diseases from images using TensorFlow, Keras
 
 ### 🤖 [TENET BOT – AI Chatbot](https://github.com/KARTIK-PANDEY/Ai_Based_Chatbot-TENET_BOT)
