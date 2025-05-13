@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+Data+Analyst;Welcome+to+my+GitHub+Profile+%F0%9F%8E%89;Exploring+Data+%26+Building+Intelligent+Systems+..." alt="Typing SVG" />
 </p>
 
-<h1 align="center">✨ Welcome to My GitHub! ✨</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=RESEARCH+INTERN+%40+IIT+BHILAI;Working+with+SAIL+(Steel+Authority+of+India)+on+a+Paid+Project" alt="Typing SVG" />
-</p>
 
 ---
 
