@@ -13,7 +13,7 @@
 🏛️ **Chhattisgarh Swami Vivekanand Technical University (CSVTU)**
 
 🔬 Currently a **Research Intern at IIT Bhilai**  
-💼 Working on a **Paid Project of 4.5 crore for Steel Authority of India Limited (SAIL) **  
+💼 Working on a **Paid Project of 4.5 crore for Steel Authority of India Limited (SAIL)**  
 
 ---
 
