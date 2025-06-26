@@ -34,13 +34,13 @@
 
 ## 🏆 Achievements
 
+- 🥇 **Winner** – National Level Data Analysts Hackathon by INFED @ IIM Nagpur
 - 🥈 **2nd Place** – Hackathon for AI ChatBot: [TENET BOT](https://github.com/KARTIK-PANDEY/Ai_Based_Chatbot-TENET_BOT)  
 - 🏆 **Best Anchor Award** – National Science Day 2024   
 - 🧠 **Research Presentation** – IEEE Conference on *Algorithmic Trading*  
 - 📜 **Certificate of Appreciation** – NEP 2023 Promotion in Technical Education  
 - 🧪 **2nd Place** – Intra-UTD Hackathon
 - 🧠 **IEEE Conference** – Research Paper on *Algorithmic Trading* (Cointegration in Indian Stock Market)
-- 🥇 **Winner** – National Level Data Analysts Hackathon by INFED @ IIM Nagpur
 
 
 ---
