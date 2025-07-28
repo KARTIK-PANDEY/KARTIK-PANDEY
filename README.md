@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **3rd Year B.Tech (Hons.) in Computer Science & Engineering**  
+🎓 **4th Year B.Tech (Hons.) in Computer Science & Engineering**  
 📚 Specialization: **Data Science**  
 🏛️ **Chhattisgarh Swami Vivekanand Technical University, Bhilai**  
 🔬 **Research Intern @IIT Bhilai (Jan–June 2025)**  
