@@ -18,7 +18,7 @@
 🏛️ **Chhattisgarh Swami Vivekanand Technical University, Bhilai**  
 🔬 **Research Intern @IIT Bhilai (Jan–June 2025)**  
 💼 Working on a **₹4.5 Crore Project with Steel Authority of India Ltd. (SAIL)**  
-💹 **Full-Time Stock Analyst & Trader** at **NSE India**
+💹 **Full-Time Stock Analyst & Trader** at **NSE** and **BSE India**
 
 ---
 
