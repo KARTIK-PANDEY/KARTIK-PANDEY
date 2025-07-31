@@ -47,7 +47,7 @@
 
 ## 📂 Projects
 
-### 🔧 [Digital Transformative System For Pre-Failure Alert Generation – SAIL Project](https://github.com/shreydan/KDD25_ADS_Continual_Anomaly_Detection_Steel_Industry)
+### 🔧 [Digital Transformative System For Pre-Failure Alert Generation – SAIL Project](https://github.com/KARTIK-PANDEY/Digital_Transformative_System_for_Pre-Failure_Alert_Genertaion_and_Cobble_Reduction)
 ML & video-based failure prediction for Bar and Rod Mill @ Bhilai Steel Plant
 
 ### 🚗 [Vehicle Management App](https://github.com/KARTIK-PANDEY/vehicle_management_app)
