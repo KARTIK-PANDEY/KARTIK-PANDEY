@@ -17,7 +17,7 @@
 📚 Specialization: **Data Science**  
 🏛️ **Chhattisgarh Swami Vivekanand Technical University, Bhilai**  
 🔬 **Research Intern @IIT Bhilai (Jan–June 2025)**  
-💼 Worked on a **₹4.5 Crore Project with Steel Authority of India Ltd. (SAIL)**  
+💼 Worked on **₹4.5 Crore Project with Steel Authority of India Ltd. (SAIL)**  
 💹 **Full-Time Stock Analyst & Trader** at **NSE** and **BSE India**
 
 ---
@@ -41,7 +41,6 @@
 - 📜 **Certificate of Appreciation** – NEP 2023 Promotion in Technical Education  
 - 🧪 **2nd Place** – Intra-UTD Hackathon
 - 🧠 **IEEE Conference** – Research Paper on *Algorithmic Trading* (Cointegration in Indian Stock Market)
-
 
 ---
 
