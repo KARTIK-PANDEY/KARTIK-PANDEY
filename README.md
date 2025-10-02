@@ -73,7 +73,7 @@ NLP-powered Discord chatbot trained on 5 lakh+ inputs for accurate and intuitive
 
 ## 📚 Tutoring Experience
 
-- 👨‍🏫 Taught **Classes 1–10** (All Subjects), and **11–12** (Physics, Chemistry, CS, English)  
+- 👨‍🏫 Taught **Classes 1–10** (All Subjects), and **11–12** (Mathematics, Physics, Chemistry, Computer Science, English)  
 - 👥 Managed 30+ students while preparing for **IIT-JEE**, **CUET**, **NDA**, and **CBSE Boards**
 
 ---
