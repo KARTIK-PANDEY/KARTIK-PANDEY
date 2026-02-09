@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 About Me
-
+😎 **Data Engineer and Software Developer @Disa Financial Services Limited** 
 🎓 **4th Year B.Tech (Hons.) in Computer Science & Engineering**  
 📚 Specialization: **Data Science**  
 🏛️ **Chhattisgarh Swami Vivekanand Technical University, Bhilai**  
