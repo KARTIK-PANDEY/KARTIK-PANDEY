@@ -26,10 +26,9 @@
 
 ## 🧠 Work Experience
 
+- 📣 **MyGov Campus Ambassador** – *Ministry of Electronics & IT*
 - 🧪 **Research Intern** – *IIT Bhilai*
-- 📈 **Data Science Intern** – *Uptricks Solutions, Pune*  
-- 📣 **MyGov Campus Ambassador** – *Ministry of Electronics & IT*  
-
+- 📈 **Data Science Intern** – *Uptricks Solutions Pvt. ltd. , Pune*    
 
 ---
 
