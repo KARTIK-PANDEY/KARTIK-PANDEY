@@ -27,8 +27,7 @@
 ## 🧠 Work Experience
 
 - 🧪 **Research Intern** – *IIT Bhilai*
-- 📊 **Data Science Intern** – *Navodita Infotech*  
-- 📈 **Data Analyst Intern** – *Uptricks Solutions, Pune*  
+- 📈 **Data Science Intern** – *Uptricks Solutions, Pune*  
 - 📣 **MyGov Campus Ambassador** – *Ministry of Electronics & IT*  
 
 
