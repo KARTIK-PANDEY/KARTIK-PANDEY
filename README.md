@@ -26,7 +26,7 @@
 
 ## 🧠 Work Experience
 
-- 📣 **MyGov Campus Ambassador** – *Ministry of Electronics & IT*
+- 📣 **Data Engineer and Software Developer** – *Disa Financial Services Private Limited*
 - 🧪 **Research Intern** – *IIT Bhilai*
 - 📈 **Data Science Intern** – *Uptricks Solutions Pvt. ltd. , Pune*    
 
