@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-😎 **Data Engineer and Software Developer @Disa Financial Services Limited** 
+😎 **Data Engineer and Software Developer @Disa Financial Services Private Limited** 
 
 🎓 **Bachelor of Technology (Hons.) in Computer Science & Engineering**  
 📚 Specialization: **Data Science**  
