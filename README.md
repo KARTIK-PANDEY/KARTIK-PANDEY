@@ -29,7 +29,6 @@
 - 🧪 **Research Intern** – *IIT Bhilai*
 - 📊 **Data Science Intern** – *Navodita Infotech*  
 - 📈 **Data Analyst Intern** – *Uptricks Solutions, Pune*  
-- 💡 **Data Science Intern** – *CognoRise Infotech*  
 - 📣 **MyGov Campus Ambassador** – *Ministry of Electronics & IT*  
 
 
